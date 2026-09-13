@@ -1,18 +1,27 @@
+* {
+  color: rgb(255, 255, 255);
+}
+
 body {
   font-family: sans-serif;
   max-width: 600px;
   margin: auto;
   padding: 2em;
+  background-color: #202020;
 }
+
 input {
   width: 100%;
   padding: 0.5em;
   font-size: 1em;
+  background-color: #323232;
 }
+
 ul {
   list-style: none;
   padding: 0;
 }
+
 li {
   margin: 0.5em 0;
 }
